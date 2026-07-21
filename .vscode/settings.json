@@ -2,6 +2,7 @@
   "java.server.launchMode": "Standard",
   "java.compile.nullAnalysis.mode": "disabled",
 
+  "editor.hover.enabled": false,
   "editor.inlayHints.enabled": "off",
   "editor.formatOnType": true,
   "editor.minimap.enabled": false,
