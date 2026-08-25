@@ -14,7 +14,8 @@
     "**/.github": true,
     "**/.gitignore": true,
     "**/.test": true,
-    "**/.vscode": true
+    "**/.vscode": true,
+    "**/.classroom50.yaml": true
   },
 
   "git.autofetch": true,
